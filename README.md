@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Voice-Interactive AI Chatbot using ESP32, Flask & AIML**
 - 🌱 I’m currently learning **Deep Learning, NLP, and Embedded AI Systems**
 - 💬 Ask me about **Python, Flask, MicroPython, Neo4j, Prolog, AIML, IoT Projects**
-- 📫 How to reach me: **mehwishnasir.ai@gmail.com**
+- 📫 How to reach me: **mehwishnasirh2so4@gmail.com**
 - ⚡ Fun fact: I love mixing hardware with AI to build smart real-time systems!
 
 ---
@@ -39,10 +39,10 @@
   <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" width="40"/>
   <img src="https://img.icons8.com/color/48/flask.png" alt="Flask" width="40"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40"/>
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-pandas-big-data-soft-fill-soft-fill-juicy-fish.png" alt="Pandas" width="40"/>
   <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neo4j-logo-2021.svg/512px-Neo4j-logo-2021.svg.png" alt="Neo4j" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.png" alt="Neo4j" width="40"/>
 </p>
 
 ---
