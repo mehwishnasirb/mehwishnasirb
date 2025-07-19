@@ -33,8 +33,8 @@
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40"/>
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40"/>
   <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jupyter-a-computational-notebook-interface-project-logo-color-tal-revivo.png" alt="Jupyter" width="40"/>
-  <img src="https://img.icons8.com/color/48/neo4j.png" alt="Neo4j" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Neo4j-logo-2021.svg" alt="Neo4j" width="40"/>
 </p>
 
 ---
