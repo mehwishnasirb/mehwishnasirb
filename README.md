@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://github.com/mehwishnasir" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/github.png" alt="mehwishnasir" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/mehwish-nasir" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:mehwishnasirh2so4@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" height="30" width="30" /></a>
+<a href="mailto:mehwishnasir.ai@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" height="30" width="30" /></a>
 <a href="https://discord.com/invite/yourcustomlink" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/discord-logo.png" alt="discord" height="30" width="30" /></a>
 </p>
 
