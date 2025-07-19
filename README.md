@@ -1,18 +1,61 @@
 <h1 align="center">Hi 👋, I'm Mehwish Nasir</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">An AI & Embedded Systems Enthusiast from Pakistan</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+---
 
-- 🌱 I’m currently learning **Deep learning and neural networks**
+- 🔭 I’m currently working on **Voice-Interactive AI Chatbot using ESP32, Flask & AIML**
+- 🌱 I’m currently learning **Deep Learning, NLP, and Embedded AI Systems**
+- 💬 Ask me about **Python, Flask, MicroPython, Neo4j, Prolog, AIML, IoT Projects**
+- 📫 How to reach me: **mehwishnasir.ai@gmail.com**
+- ⚡ Fun fact: I love mixing hardware with AI to build smart real-time systems!
 
-- 👨‍💻 All of my projects are available at [https://www.hamzamunir.com/MEHWISH/Mehwish%20Portfolio.html](https://www.hamzamunir.com/MEHWISH/Mehwish%20Portfolio.html)
+---
 
-- 📫 How to reach me **mehwishnasirh2so4@gmail.com**
+## 🌐 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehwish-nasir-7662b6262/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bg17ij12isyodd%2bg4u5%2fcvq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehwish-nasir-7662b6262/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bg17ij12isyodd%2bg4u5%2fcvq%3d%3d" height="30" width="40" /></a>
+<a href="https://github.com/mehwishnasir" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/github.png" alt="mehwishnasir" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mehwish-nasir" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:mehwishnasir.ai@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" height="30" width="30" /></a>
+<a href="https://discord.com/invite/yourcustomlink" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/discord-logo.png" alt="discord" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/>
+  <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino" width="40"/>
+  <img src="https://img.icons8.com/color/48/flask.png" alt="Flask" width="40"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40"/>
+  <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jupyter-a-computational-notebook-interface-project-logo-color-tal-revivo.png" alt="Jupyter" width="40"/>
+  <img src="https://img.icons8.com/color/48/neo4j.png" alt="Neo4j" width="40"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehwishnasir&show_icons=true&theme=radical" alt="Mehwish's GitHub stats"/>
+</p>
+
+---
+
+## 🎯 Current Projects
+
+- 🔊 **Voice-Interactive Chatbot with ESP32 + AIML + Flask**
+- 🌿 **Smart Plant Monitoring System with IoT Sensors**
+- 🧠 **Neo4j Knowledge Graph Chatbot**
+- 🤖 **AI Assistant for Family Relationship Inference (Prolog + AIML)**
+
+---
+
+## 📌 Quote I Love
+
+> "The best way to predict the future is to invent it." – Alan Kay
