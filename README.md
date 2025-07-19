@@ -14,10 +14,18 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://github.com/mehwishnasir" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/github.png" alt="mehwishnasir" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/mehwish-nasir" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:mehwishnasir.ai@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" height="30" width="30" /></a>
-<a href="https://discord.com/invite/yourcustomlink" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/discord-logo.png" alt="discord" height="30" width="30" /></a>
+  <a href="https://github.com/mehwishnasir" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" height="30" width="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehwish-nasir" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="mailto:mehwishnasir.ai@gmail.com">
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="30" width="30" />
+  </a>
+  <a href="https://discord.com/invite/yourcustomlink" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord" height="30" width="30" />
+  </a>
 </p>
 
 ---
@@ -34,7 +42,7 @@
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" width="40"/>
   <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Neo4j-logo-2021.svg" alt="Neo4j" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Neo4j-logo-2021.svg/512px-Neo4j-logo-2021.svg.png" alt="Neo4j" width="40"/>
 </p>
 
 ---
