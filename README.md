@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/mehwish-nasir" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="mailto:mehwishnasir.ai@gmail.com">
+  <a href="mailto:mehwishnasirh2so4@gmail.com">
     <img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="30" width="30" />
   </a>
   <a href="https://discord.com/invite/yourcustomlink" target="blank">
